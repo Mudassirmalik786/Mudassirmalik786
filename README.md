@@ -11,7 +11,7 @@
 
 - 💬 Ask me about <strong> C#, web-development, DJANGO, Python, AI/ML.</strong>
 
-- 📫 Reach Me Through : <strong>hamza.waseem@studentambassadors.com</strong>
+- 📫 Reach Me Through : <strong>mudassirnaveed303@gmail.com</strong>
 
 - ⚡ Fun fact <strong>I am really good in Animated Games and Cricket. Also trying to be a better developer too</strong>
 
